@@ -27,6 +27,7 @@ minecraft:crafting_table
 minecraft:creeper_banner_pattern
 minecraft:cyan_glazed_terracotta
 minecraft:cyan_terracotta
+minecraft:dark_oak_planks
 minecraft:diamond
 minecraft:diamond_block
 minecraft:diorite
@@ -50,6 +51,7 @@ minecraft:ink_sac
 minecraft:iron_block
 minecraft:iron_ingot
 minecraft:iron_nugget
+minecraft:jungle_planks
 minecraft:lapis_block
 minecraft:leather_boots
 minecraft:leather_chestplate
@@ -66,6 +68,7 @@ minecraft:magenta_terracotta
 minecraft:melon
 minecraft:melon_seeds
 minecraft:mojang_banner_pattern
+minecraft:oak_planks
 minecraft:orange_glazed_terracotta
 minecraft:orange_terracotta
 minecraft:pink_glazed_terracotta
@@ -80,6 +83,7 @@ minecraft:redstone_torch
 minecraft:snow
 minecraft:snow_block
 minecraft:sponge
+minecraft:spruce_planks
 minecraft:stick
 minecraft:stone
 minecraft:sugar

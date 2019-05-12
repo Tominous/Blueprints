@@ -65,7 +65,7 @@ minecraft:stone_hoe
 minecraft:stone_pickaxe
 minecraft:stone_shovel
 minecraft:stone_sword
-nether_block;minecraft:nether_brick;minecraft:nether_bricks;minecraft:nether_wart_block;minecraft:red_nether_bricks
+nether_blocks;minecraft:nether_brick;minecraft:nether_bricks;minecraft:nether_wart_block;minecraft:red_nether_bricks
 pressure_plate;minecraft:acacia_pressure_plate;minecraft:birch_pressure_plate;minecraft:dark_oak_pressure_plate;minecraft:spruce_pressure_plate;minecraft:stone_pressure_plate
 prismarine;minecraft:dark_prismarine;minecraft:prismarine;minecraft:prismarine_bricks
 quartz;minecraft:chiseled_quartz_block;minecraft:quartz_block;minecraft:quartz_pillar;minecraft:smooth_quartz

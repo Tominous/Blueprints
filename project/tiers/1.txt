@@ -51,7 +51,6 @@ minecraft:magma_block
 minecraft:mossy_cobblestone
 minecraft:painting
 minecraft:paper
-polished_blocks;minecraft:polished_andesite;minecraft:polished_diorite;minecraft:polished_granite
 minecraft:pumpkin_pie
 minecraft:rail
 minecraft:sea_lantern
@@ -64,6 +63,7 @@ minecraft:stone_pickaxe
 minecraft:stone_shovel
 minecraft:stone_sword
 nether_blocks;minecraft:nether_brick;minecraft:nether_bricks;minecraft:nether_wart_block;minecraft:red_nether_bricks
+polished_blocks;minecraft:polished_andesite;minecraft:polished_diorite;minecraft:polished_granite
 pressure_plate;minecraft:acacia_pressure_plate;minecraft:birch_pressure_plate;minecraft:dark_oak_pressure_plate;minecraft:spruce_pressure_plate;minecraft:stone_pressure_plate
 prismarine;minecraft:dark_prismarine;minecraft:prismarine;minecraft:prismarine_bricks
 quartz;minecraft:chiseled_quartz_block;minecraft:quartz_block;minecraft:quartz_pillar;minecraft:smooth_quartz

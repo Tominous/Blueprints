@@ -520,7 +520,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Nether block\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:nether_brick\",\"minecraft:nether_bricks\",\"minecraft:nether_wart_block\",\"minecraft:red_nether_bricks\"]}"
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Nether blocks\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:nether_brick\",\"minecraft:nether_bricks\",\"minecraft:nether_wart_block\",\"minecraft:red_nether_bricks\"]}"
             }
           ]
         },
@@ -550,27 +550,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Polished andesite\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:polished_andesite\"]}"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:knowledge_book",
-          "functions": [
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Polished diorite\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:polished_diorite\"]}"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:knowledge_book",
-          "functions": [
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Polished granite\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:polished_granite\"]}"
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Polished blocks\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:polished_andesite\",\"minecraft:polished_diorite\",\"minecraft:polished_granite\"]}"
             }
           ]
         },

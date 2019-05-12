@@ -27,6 +27,7 @@ recipe give @s minecraft:crafting_table
 recipe give @s minecraft:creeper_banner_pattern
 recipe give @s minecraft:cyan_glazed_terracotta
 recipe give @s minecraft:cyan_terracotta
+recipe give @s minecraft:dark_oak_planks
 recipe give @s minecraft:diamond
 recipe give @s minecraft:diamond_block
 recipe give @s minecraft:diorite
@@ -48,6 +49,7 @@ recipe give @s minecraft:green_terracotta
 recipe give @s minecraft:iron_block
 recipe give @s minecraft:iron_ingot
 recipe give @s minecraft:iron_nugget
+recipe give @s minecraft:jungle_planks
 recipe give @s minecraft:lapis_block
 recipe give @s minecraft:leather_boots
 recipe give @s minecraft:leather_chestplate
@@ -64,6 +66,7 @@ recipe give @s minecraft:magenta_terracotta
 recipe give @s minecraft:melon
 recipe give @s minecraft:melon_seeds
 recipe give @s minecraft:mojang_banner_pattern
+recipe give @s minecraft:oak_planks
 recipe give @s minecraft:orange_glazed_terracotta
 recipe give @s minecraft:orange_terracotta
 recipe give @s minecraft:pink_glazed_terracotta
@@ -77,6 +80,7 @@ recipe give @s minecraft:redstone_torch
 recipe give @s minecraft:snow
 recipe give @s minecraft:snow_block
 recipe give @s minecraft:sponge
+recipe give @s minecraft:spruce_planks
 recipe give @s minecraft:stick
 recipe give @s minecraft:stone
 recipe give @s minecraft:sugar

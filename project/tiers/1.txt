@@ -51,9 +51,7 @@ minecraft:magma_block
 minecraft:mossy_cobblestone
 minecraft:painting
 minecraft:paper
-minecraft:polished_andesite
-minecraft:polished_diorite
-minecraft:polished_granite
+polished_blocks;minecraft:polished_andesite;minecraft:polished_diorite;minecraft:polished_granite
 minecraft:pumpkin_pie
 minecraft:rail
 minecraft:sea_lantern

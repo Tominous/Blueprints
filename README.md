@@ -49,11 +49,11 @@ Follow these steps to get Blueprints in your Minecraft world:
 
 1. [Download](#TODO) the latest Blueprints relase for the Minecraft version you use.
 2. Extract downloaded archive.
-3. Copy `blueprints` folder from `datapacks` to your Minecraft world save:
+3. Copy `blueprints` folder from `datapacks` to your Minecraft world save:\
 `
 %appdata%\.minecraft\saves\[YOUR WORLD NAME]\datapacks
 `
-4. Copy `blueprints` folder from `resourcepacks` to your Minecraft resourcepacks directory:
+4. Copy `blueprints` folder from `resourcepacks` to your Minecraft resourcepacks directory:\
 `
 %appdata%\.minecraft\resourcepacks
 `

@@ -73,7 +73,7 @@ Follow these steps to get Blueprints in your Minecraft world:
 <!-- HOW TO PLAY -->
 ## How To Play
 
-1. You can not craft items that you have not unlocked first.
+1. You can't craft items that you've not unlocked first.
 
 ![](https://github.com/Vinderguy/Blueprints/blob/master/resources/screenshots/sample_step1.png)
 
@@ -88,7 +88,7 @@ Follow these steps to get Blueprints in your Minecraft world:
 ![](https://github.com/Vinderguy/Blueprints/blob/master/resources/screenshots/sample_step3.png)
 
 
-4. You can craft unlocked items.
+4. If you have unlocked an item, you can craft it.
 
 ![](https://github.com/Vinderguy/Blueprints/blob/master/resources/screenshots/sample_step4.png)
 

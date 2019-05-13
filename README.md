@@ -37,7 +37,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Blueprints datapack adds well-known blueprints mechanic from Rust game. Blueprints (knowledge books) can be found inside villages, temples, dungeons, etc. You can craft only items that you have unlocked first. Some recipes are unlocked by default.
+Blueprints mod uses knowledge books added in 1.12 to make Minecraft more exciting and challenging. How does it work? You can't craft item if you don't have unlocked recipe for it. How do I unlock recipes? You can find different tiers of blueprints (knowledge books) in different locations. It forces you to explore the map instead of spending hours mining in caves. When connected with Minecraft's hardcore mode it gets more interesting. Using it on a multiplayer fractions server make the gameplay 
+unforgettable experience.
 
 
 

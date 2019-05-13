@@ -8,7 +8,7 @@
   <h3 align="center">Blueprints</h3>
 
   <p align="center">
-    Make Minecraft harder by requiring to unlock item before crafting it.
+    Enhance your gameplay by adding the requirement to unlock item recipe before crafting it.
     <br />
     <a href="https://github.com/Vinderguy/Blueprints/wiki"><strong>Explore the docs »</strong></a>
     <br />

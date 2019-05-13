@@ -47,7 +47,7 @@ unforgettable experience.
 
 Follow these steps to get Blueprints in your Minecraft world:
 
-1. [Download](#TODO) the latest Blueprints relase for the Minecraft version you use.
+1. [Download](https://github.com/Vinderguy/Blueprints/releases/tag/v0.2) the latest Blueprints relase for the Minecraft version you use.
 2. Extract downloaded archive.
 3. Copy `blueprints` folder from `datapacks` to your Minecraft world save datapacks directory:\
 `

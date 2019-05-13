@@ -47,28 +47,26 @@ unforgettable experience.
 
 Follow these steps to get Blueprints in your Minecraft world:
 
-1. [Download](#TODO) the latest Blueprints relase.
+1. [Download](#TODO) the latest Blueprints relase for the Minecraft version you use.
 2. Extract downloaded archive.
-3. Open `datapacks` folder.
-4. Copy `blueprints` directory to your Minecraft world save:
+3. Copy `blueprints` folder from `datapacks` to your Minecraft world save:
 `
 %appdata%\.minecraft\saves\[YOUR WORLD NAME]\datapacks
 `
-5. Open `resourcepacks` folder inside extracted archive.
-6. Copy `blueprints` directory to your Minecraft resourcepacks folder:
+4. Copy `blueprints` folder from `resourcepacks` to your Minecraft resourcepacks directory:
 `
 %appdata%\.minecraft\resourcepacks
 `
-7. Turn on `blueprints` resourcepack in game settings.
-8. If you are ingame, open chat and type:
+5. Turn on Blueprints resourcepack in game settings.
+6. If you're ingame, open chat and type:
 `/reload`
-9. Enable blueprints:
+7. Enable Blueprints:
 `/gamerule doLimitedCrafting true`
-10. If you are adding blueprints to a world you have already played, clear your recipes by typing:
+8. If you're adding blueprints to a world you've already played, clear your recipes by typing:
 `/recipe take @s *`
-11. Unlock default recipes:
+9. Unlock default recipes:
 `/function blueprints:unlock_default_blueprints`
-12. GL&HF!
+10. GL&HF!
 
 
 

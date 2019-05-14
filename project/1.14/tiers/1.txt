@@ -52,7 +52,6 @@ minecraft:mossy_cobblestone
 minecraft:painting
 minecraft:paper
 minecraft:pumpkin_pie
-minecraft:rail
 minecraft:sea_lantern
 minecraft:skull_banner_pattern
 minecraft:smithing_table

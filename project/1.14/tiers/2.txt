@@ -62,5 +62,5 @@ minecraft:tnt_minecart
 minecraft:trapped_chest
 minecraft:tripwire_hook
 minecraft:writable_book
-slime;minecraft:slime_block
+minecraft:slime_block
 weighted_pressure_plate;minecraft:heavy_weighted_pressure_plate;minecraft:light_weighted_pressure_plate

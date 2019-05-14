@@ -48,11 +48,13 @@ minecraft:note_block
 minecraft:observer
 minecraft:piston
 minecraft:powered_rail
+minecraft:rail
 minecraft:redstone_lamp
 minecraft:repeater
 minecraft:scaffolding
 minecraft:shears
 minecraft:shield
+minecraft:slime_block
 minecraft:smoker
 minecraft:spectral_arrow
 minecraft:sticky_piston
@@ -62,5 +64,4 @@ minecraft:tnt_minecart
 minecraft:trapped_chest
 minecraft:tripwire_hook
 minecraft:writable_book
-slime;minecraft:slime_block
 weighted_pressure_plate;minecraft:heavy_weighted_pressure_plate;minecraft:light_weighted_pressure_plate

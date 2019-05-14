@@ -350,6 +350,16 @@
           "functions": [
             {
               "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Glass pane\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:black_stained_glass_pane\",\"minecraft:blue_stained_glass_pane\",\"minecraft:brown_stained_glass_pane\",\"minecraft:cyan_stained_glass_pane\",\"minecraft:glass_pane\",\"minecraft:gray_stained_glass_pane\",\"minecraft:green_stained_glass_pane\",\"minecraft:light_blue_stained_glass_pane\",\"minecraft:light_gray_stained_glass_pane\",\"minecraft:lime_stained_glass_pane\",\"minecraft:magenta_stained_glass_pane\",\"minecraft:orange_stained_glass_pane\",\"minecraft:pink_stained_glass_pane\",\"minecraft:purple_stained_glass_pane\",\"minecraft:red_stained_glass_pane\",\"minecraft:white_stained_glass_pane\",\"minecraft:yellow_stained_glass_pane\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Glowstone\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:glowstone\"]}"
             }
           ]
@@ -600,17 +610,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Rail\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:rail\"]}"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:knowledge_book",
-          "functions": [
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Sandstone\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:chiseled_red_sandstone\",\"minecraft:chiseled_sandstone\",\"minecraft:cut_red_sandstone\",\"minecraft:cut_sandstone\",\"minecraft:red_sandstone\",\"minecraft:sandstone\",\"minecraft:smooth_red_sandstone\",\"minecraft:smooth_sandstone\"]}"
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Sandstone\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:chiseled_red_sandstone\",\"minecraft:chiseled_sandstone\",\"minecraft:cut_red_sandstone\",\"minecraft:cut_sandstone\",\"minecraft:red_sandstone\",\"minecraft:sandstone\"]}"
             }
           ]
         },
@@ -681,16 +681,6 @@
             {
               "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Stained glass\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:black_stained_glass\",\"minecraft:blue_stained_glass\",\"minecraft:brown_stained_glass\",\"minecraft:cyan_stained_glass\",\"minecraft:gray_stained_glass\",\"minecraft:green_stained_glass\",\"minecraft:light_blue_stained_glass\",\"minecraft:light_gray_stained_glass\",\"minecraft:lime_stained_glass\",\"minecraft:magenta_stained_glass\",\"minecraft:orange_stained_glass\",\"minecraft:pink_stained_glass\",\"minecraft:purple_stained_glass\",\"minecraft:red_stained_glass\",\"minecraft:white_stained_glass\",\"minecraft:yellow_stained_glass\"]}"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:knowledge_book",
-          "functions": [
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Stained glass pane\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:black_stained_glass_pane\",\"minecraft:blue_stained_glass_pane\",\"minecraft:brown_stained_glass_pane\",\"minecraft:cyan_stained_glass_pane\",\"minecraft:gray_stained_glass_pane\",\"minecraft:green_stained_glass_pane\",\"minecraft:light_blue_stained_glass_pane\",\"minecraft:light_gray_stained_glass_pane\",\"minecraft:lime_stained_glass_pane\",\"minecraft:magenta_stained_glass_pane\",\"minecraft:orange_stained_glass_pane\",\"minecraft:pink_stained_glass_pane\",\"minecraft:purple_stained_glass_pane\",\"minecraft:red_stained_glass_pane\",\"minecraft:white_stained_glass_pane\",\"minecraft:yellow_stained_glass_pane\"]}"
             }
           ]
         },

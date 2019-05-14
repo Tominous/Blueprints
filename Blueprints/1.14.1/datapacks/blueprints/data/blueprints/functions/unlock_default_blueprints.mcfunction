@@ -37,7 +37,6 @@ recipe give @s minecraft:emerald
 recipe give @s minecraft:emerald_block
 recipe give @s minecraft:flower_banner_pattern
 recipe give @s minecraft:glass
-recipe give @s minecraft:glass_pane
 recipe give @s minecraft:gold_block
 recipe give @s minecraft:gold_ingot
 recipe give @s minecraft:gold_nugget
@@ -77,6 +76,8 @@ recipe give @s minecraft:purple_terracotta
 recipe give @s minecraft:red_glazed_terracotta
 recipe give @s minecraft:red_terracotta
 recipe give @s minecraft:redstone_torch
+recipe give @s minecraft:smooth_red_sandstone
+recipe give @s minecraft:smooth_sandstone
 recipe give @s minecraft:snow
 recipe give @s minecraft:snow_block
 recipe give @s minecraft:sponge

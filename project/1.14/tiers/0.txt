@@ -99,3 +99,4 @@ minecraft:wooden_sword
 minecraft:yellow_glazed_terracotta
 minecraft:yellow_terracotta
 minecraft:smooth_sandstone
+minecraft:smooth_red_sandstone

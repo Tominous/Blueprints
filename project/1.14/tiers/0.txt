@@ -79,6 +79,8 @@ minecraft:rabbit_stew
 minecraft:red_glazed_terracotta
 minecraft:red_terracotta
 minecraft:redstone_torch
+minecraft:smooth_red_sandstone
+minecraft:smooth_sandstone
 minecraft:snow
 minecraft:snow_block
 minecraft:sponge
@@ -98,5 +100,3 @@ minecraft:wooden_shovel
 minecraft:wooden_sword
 minecraft:yellow_glazed_terracotta
 minecraft:yellow_terracotta
-minecraft:smooth_sandstone
-minecraft:smooth_red_sandstone

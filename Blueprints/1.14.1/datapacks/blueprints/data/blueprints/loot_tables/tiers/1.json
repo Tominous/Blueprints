@@ -600,7 +600,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Quartz\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:chiseled_quartz_block\",\"minecraft:quartz_block\",\"minecraft:quartz_pillar\",\"minecraft:smooth_quartz\"]}"
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Quartz\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:chiseled_quartz_block\",\"minecraft:quartz_block\",\"minecraft:quartz_pillar\"]}"
             }
           ]
         },
@@ -640,16 +640,6 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Skull banner pattern\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:skull_banner_pattern\"]}"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:knowledge_book",
-          "functions": [
-            {
-              "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Slab\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:acacia_slab\",\"minecraft:andesite_slab\",\"minecraft:birch_slab\",\"minecraft:brick_slab\",\"minecraft:cobblestone_slab\",\"minecraft:cut_red_sandstone_slab\",\"minecraft:cut_sandstone_slab\",\"minecraft:dark_oak_slab\",\"minecraft:dark_prismarine_slab\",\"minecraft:diorite_slab\",\"minecraft:end_stone_brick_slab\",\"minecraft:granite_slab\",\"minecraft:jungle_slab\",\"minecraft:mossy_cobblestone_slab\",\"minecraft:mossy_stone_brick_slab\",\"minecraft:nether_brick_slab\",\"minecraft:oak_slab\",\"minecraft:polished_andesite_slab\",\"minecraft:polished_diorite_slab\",\"minecraft:polished_granite_slab\",\"minecraft:prismarine_brick_slab\",\"minecraft:prismarine_slab\",\"minecraft:purpur_slab\",\"minecraft:quartz_slab\",\"minecraft:red_nether_brick_slab\",\"minecraft:red_sandstone_slab\",\"minecraft:sandstone_slab\",\"minecraft:smooth_quartz_slab\",\"minecraft:smooth_red_sandstone_slab\",\"minecraft:smooth_sandstone_slab\",\"minecraft:smooth_stone_slab\",\"minecraft:spruce_slab\",\"minecraft:stone_brick_slab\",\"minecraft:stone_slab\"]}"
             }
           ]
@@ -661,16 +651,6 @@
             {
               "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Smithing table\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:smithing_table\"]}"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:knowledge_book",
-          "functions": [
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Smooth stone\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:smooth_stone\"]}"
             }
           ]
         },

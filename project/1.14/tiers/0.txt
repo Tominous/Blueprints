@@ -79,8 +79,11 @@ minecraft:rabbit_stew
 minecraft:red_glazed_terracotta
 minecraft:red_terracotta
 minecraft:redstone_torch
+minecraft:skull_banner_pattern
+minecraft:smooth_quartz
 minecraft:smooth_red_sandstone
 minecraft:smooth_sandstone
+minecraft:smooth_stone
 minecraft:snow
 minecraft:snow_block
 minecraft:sponge
@@ -100,6 +103,3 @@ minecraft:wooden_shovel
 minecraft:wooden_sword
 minecraft:yellow_glazed_terracotta
 minecraft:yellow_terracotta
-minecraft:skull_banner_pattern
-minecraft:smooth_quartz
-minecraft:smooth_stone

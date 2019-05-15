@@ -76,8 +76,11 @@ recipe give @s minecraft:purple_terracotta
 recipe give @s minecraft:red_glazed_terracotta
 recipe give @s minecraft:red_terracotta
 recipe give @s minecraft:redstone_torch
+recipe give @s minecraft:skull_banner_pattern
+recipe give @s minecraft:smooth_quartz
 recipe give @s minecraft:smooth_red_sandstone
 recipe give @s minecraft:smooth_sandstone
+recipe give @s minecraft:smooth_stone
 recipe give @s minecraft:snow
 recipe give @s minecraft:snow_block
 recipe give @s minecraft:sponge

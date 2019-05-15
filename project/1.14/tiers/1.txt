@@ -55,7 +55,6 @@ minecraft:paper
 minecraft:pumpkin_pie
 minecraft:sea_lantern
 minecraft:smithing_table
-minecraft:smooth_stone
 minecraft:stone_axe
 minecraft:stone_hoe
 minecraft:stone_pickaxe

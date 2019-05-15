@@ -102,3 +102,4 @@ minecraft:yellow_glazed_terracotta
 minecraft:yellow_terracotta
 minecraft:skull_banner_pattern
 minecraft:smooth_quartz
+minecraft:smooth_stone

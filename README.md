@@ -60,12 +60,8 @@ Follow these steps to get Blueprints in your Minecraft world:
 6. If you're ingame, open chat and type:
 `/reload`
 7. Enable Blueprints:
-`/gamerule doLimitedCrafting true`
-8. If you're adding blueprints to a world you've already played, clear your recipes by typing:
-`/recipe take @s *`
-9. Unlock default recipes:
-`/function blueprints:unlock_default_blueprints`
-10. GL&HF!
+`/function blueprints:enable`
+8. GL&HF!
 
 
 

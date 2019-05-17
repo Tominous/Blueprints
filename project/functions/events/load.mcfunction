@@ -1,0 +1,2 @@
+scoreboard objectives add 5PZqcA8UWJ9X9z9L dummy
+function blueprints:enable

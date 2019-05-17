@@ -1,2 +1,3 @@
-execute if score 75t9fc56AzvfUFwa 5PZqcA8UWJ9X9z9L matches 1 run tellraw @s ["",{"text":"BLUEPRINTS ","bold":true,"color":"yellow"},{"text":"» ","color":"gray"},{"text":"Blueprints are ","color":"white"},{"text":"enabled","color":"green"},{"text":"."}]
-execute unless score 75t9fc56AzvfUFwa 5PZqcA8UWJ9X9z9L matches 1 run tellraw @s ["",{"text":"BLUEPRINTS ","bold":true,"color":"yellow"},{"text":"» ","color":"gray"},{"text":"Blueprints are ","color":"white"},{"text":"disabled","color":"red"},{"text":"."}]
+execute if score 75t9fc56AzvfUFwa 5PZqcA8UWJ9X9z9L matches 1 run tellraw @s ["",{"text":"BLUEPRINTS ","bold":true,"color":"yellow"},{"text":"» ","color":"gray"},{"text":"Blueprints mod is ","color":"white"},{"text":"enabled","color":"green"},{"text":"."}]
+execute unless score 75t9fc56AzvfUFwa 5PZqcA8UWJ9X9z9L matches 1 run tellraw @s ["",{"text":"BLUEPRINTS ","bold":true,"color":"yellow"},{"text":"» ","color":"gray"},{"text":"Blueprints mod is ","color":"white"},{"text":"disabled","color":"red"},{"text":"."}]
+playsound minecraft:entity.item.break neutral @s ~ ~ ~ 100 2 1

@@ -1,0 +1,2 @@
+execute unless score U7UqKtNNvrqTbyD3 5PZqcA8UWJ9X9z9L matches 1 run function blueprints:other/unlock_default_blueprints_condition
+execute unless score U7UqKtNNvrqTbyD3 5PZqcA8UWJ9X9z9L matches 1 run function blueprints:clock/tick

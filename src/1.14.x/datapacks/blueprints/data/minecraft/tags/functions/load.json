@@ -1,5 +1,5 @@
 {
  "values": [
- "blueprints:enable"
+ "blueprints:events/load"
  ]
 }

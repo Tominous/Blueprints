@@ -1,0 +1,1 @@
+scoreboard players set U7UqKtNNvrqTbyD3 5PZqcA8UWJ9X9z9L 0

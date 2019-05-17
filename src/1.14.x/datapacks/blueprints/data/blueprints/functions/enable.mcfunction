@@ -4,3 +4,4 @@ gamerule doLimitedCrafting true
 scoreboard objectives add 5PZqcA8UWJ9X9z9L dummy
 execute unless score xqG5az4TmGpk72bt 5PZqcA8UWJ9X9z9L matches 1 run recipe take @a *
 scoreboard players set xqG5az4TmGpk72bt 5PZqcA8UWJ9X9z9L 1
+scoreboard players set 75t9fc56AzvfUFwa 5PZqcA8UWJ9X9z9L 1

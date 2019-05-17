@@ -49,20 +49,20 @@ Follow these steps to get Blueprints in your Minecraft world:
 1. [Download](https://github.com/Vinderguy/Blueprints/releases/tag/v0.2) the latest Blueprints relase for the Minecraft version you use.
 2. Extract downloaded archive.
 3. Select game version from available.
-3. Copy `blueprints` folder from `datapacks` to your Minecraft world save datapacks directory:\
+4. Copy `blueprints` folder from `datapacks` to your Minecraft world save datapacks directory:\
 `
 %appdata%\.minecraft\saves\[YOUR WORLD NAME]\datapacks
 `
-4. Copy `blueprints` folder from `resourcepacks` to your Minecraft resourcepacks directory:\
+5. Copy `blueprints` folder from `resourcepacks` to your Minecraft resourcepacks directory:\
 `
 %appdata%\.minecraft\resourcepacks
 `
-5. Turn on Blueprints resourcepack in game settings.
-6. If you're ingame, open chat and type:
+6. Turn on Blueprints resourcepack in game settings.
+7. If you're ingame, open chat and type:
 `/reload`
-7. Enable Blueprints:
+9. Enable Blueprints:
 `/function blueprints:enable`
-8. GL&HF!
+9. GL&HF!
 
 
 

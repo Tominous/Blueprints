@@ -3,5 +3,5 @@ playsound minecraft:entity.item.break neutral @s ~ ~ ~ 100 2 1
 gamerule doLimitedCrafting true
 scoreboard objectives add 5PZqcA8UWJ9X9z9L dummy
 execute unless score xqG5az4TmGpk72bt 5PZqcA8UWJ9X9z9L matches 1 run recipe take @a *
-function blueprints:unlock_default_blueprints
+function blueprints:unlock_default_blueprints_everyone
 scoreboard players set xqG5az4TmGpk72bt 5PZqcA8UWJ9X9z9L 1

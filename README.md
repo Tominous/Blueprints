@@ -46,7 +46,7 @@ Blueprints mod uses knowledge books added in 1.12 to make Minecraft more excitin
 
 Follow these steps to get Blueprints in your Minecraft world:
 
-1. [Download](https://github.com/Vinderguy/Blueprints/releases/tag/v0.2) the latest Blueprints relase for the Minecraft version you use.
+1. [Download](https://github.com/Vinderguy/Blueprints/releases/tag/v0.5) the latest Blueprints relase for the Minecraft version you use.
 2. Extract downloaded archive.
 3. Select game version from available.
 4. Copy `blueprints` folder from `datapacks` to your Minecraft world save datapacks directory:\
@@ -58,11 +58,8 @@ Follow these steps to get Blueprints in your Minecraft world:
 %appdata%\.minecraft\resourcepacks
 `
 6. Turn on Blueprints resourcepack in game settings.
-7. If you're ingame, open chat and type:
-`/reload`
-9. Enable Blueprints:
-`/function blueprints:enable`
-9. GL&HF!
+7. Rejoin world or open chat and type: `/reload`
+8. GL&HF!
 
 
 

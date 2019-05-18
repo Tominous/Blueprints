@@ -67,6 +67,7 @@ minecraft:magenta_terracotta
 minecraft:melon
 minecraft:melon_seeds
 minecraft:mojang_banner_pattern
+minecraft:nether_brick
 minecraft:oak_planks
 minecraft:orange_glazed_terracotta
 minecraft:orange_terracotta

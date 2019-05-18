@@ -1,6 +1,7 @@
 minecraft:beacon
 minecraft:conduit
 minecraft:diamond_axe
+minecraft:diamond_block
 minecraft:diamond_boots
 minecraft:diamond_chestplate
 minecraft:diamond_helmet

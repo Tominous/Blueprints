@@ -28,7 +28,6 @@ minecraft:cyan_glazed_terracotta
 minecraft:cyan_terracotta
 minecraft:dark_oak_planks
 minecraft:diamond
-minecraft:diamond_block
 minecraft:diorite
 minecraft:dried_kelp
 minecraft:dried_kelp_block

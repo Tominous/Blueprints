@@ -59,7 +59,6 @@ minecraft:orange_glazed_terracotta
 minecraft:pink_glazed_terracotta
 minecraft:pumpkin_seeds
 minecraft:purple_glazed_terracotta
-minecraft:purple_terracotta
 minecraft:rabbit_stew
 minecraft:red_glazed_terracotta
 minecraft:red_terracotta

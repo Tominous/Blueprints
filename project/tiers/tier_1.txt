@@ -65,6 +65,7 @@ minecraft:painting
 minecraft:paper
 minecraft:pink_terracotta
 minecraft:pumpkin_pie
+minecraft:purple_terracotta
 minecraft:sea_lantern
 minecraft:smithing_table
 minecraft:stone_axe

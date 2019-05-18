@@ -47,6 +47,7 @@ minecraft:golden_leggings
 minecraft:golden_pickaxe
 minecraft:golden_shovel
 minecraft:golden_sword
+minecraft:gray_terracotta
 minecraft:hay_block
 minecraft:ladder
 minecraft:lantern

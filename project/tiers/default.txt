@@ -13,7 +13,6 @@ minecraft:charcoal
 minecraft:clay
 minecraft:coal
 minecraft:coarse_dirt
-minecraft:cooked_beef
 minecraft:crafting_table
 minecraft:creeper_banner_pattern
 minecraft:dark_oak_planks

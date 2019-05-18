@@ -52,7 +52,6 @@ minecraft:magma_block
 minecraft:melon
 minecraft:melon_seeds
 minecraft:mojang_banner_pattern
-minecraft:nether_brick
 minecraft:oak_planks
 minecraft:pumpkin_seeds
 minecraft:rabbit_stew

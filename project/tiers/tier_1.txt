@@ -58,6 +58,7 @@ minecraft:lever
 minecraft:light_blue_terracotta
 minecraft:light_gray_terracotta
 minecraft:lime_terracotta
+minecraft:magenta_terracotta
 minecraft:mossy_cobblestone
 minecraft:painting
 minecraft:paper

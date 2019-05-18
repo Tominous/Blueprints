@@ -6,6 +6,7 @@ minecraft:blast_furnace
 minecraft:blaze_powder
 minecraft:brewing_stand
 minecraft:bucket
+minecraft:cartography_table
 minecraft:chest_minecart
 minecraft:clock
 minecraft:comparator

@@ -22,7 +22,6 @@ minecraft:bricks
 minecraft:cake
 minecraft:campfire
 minecraft:carrot_on_a_stick
-minecraft:cartography_table
 minecraft:cauldron
 minecraft:chest
 minecraft:cookie

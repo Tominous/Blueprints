@@ -47,6 +47,7 @@ minecraft:golden_sword
 minecraft:hay_block
 minecraft:ladder
 minecraft:lantern
+minecraft:lapis_block
 minecraft:lectern
 minecraft:lever
 minecraft:magma_block

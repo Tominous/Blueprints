@@ -47,7 +47,6 @@ minecraft:ink_sac
 minecraft:iron_ingot
 minecraft:iron_nugget
 minecraft:jungle_planks
-minecraft:lapis_block
 minecraft:leather_boots
 minecraft:leather_chestplate
 minecraft:leather_helmet

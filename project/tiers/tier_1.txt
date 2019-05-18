@@ -15,6 +15,7 @@ minecraft:arrow
 minecraft:beetroot_soup
 minecraft:bone_block
 minecraft:bone_meal
+minecraft:book
 minecraft:bookshelf
 minecraft:bow
 minecraft:bread

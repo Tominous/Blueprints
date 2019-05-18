@@ -48,7 +48,6 @@ minecraft:leather_leggings
 minecraft:light_blue_glazed_terracotta
 minecraft:light_gray_glazed_terracotta
 minecraft:lime_glazed_terracotta
-minecraft:lime_terracotta
 minecraft:magenta_glazed_terracotta
 minecraft:magenta_terracotta
 minecraft:magma_block

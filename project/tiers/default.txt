@@ -73,7 +73,6 @@ minecraft:stick
 minecraft:sugar
 minecraft:torch
 minecraft:wheat
-minecraft:white_glazed_terracotta
 minecraft:wooden_axe
 minecraft:wooden_hoe
 minecraft:wooden_pickaxe

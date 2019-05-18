@@ -65,7 +65,6 @@ minecraft:skull_banner_pattern
 minecraft:smooth_quartz
 minecraft:smooth_red_sandstone
 minecraft:smooth_sandstone
-minecraft:smooth_stone
 minecraft:snow
 minecraft:snow_block
 minecraft:spruce_planks

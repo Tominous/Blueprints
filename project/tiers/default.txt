@@ -10,7 +10,6 @@ minecraft:brick
 minecraft:brown_glazed_terracotta
 minecraft:campfire
 minecraft:charcoal
-minecraft:clay
 minecraft:coal
 minecraft:coarse_dirt
 minecraft:crafting_table

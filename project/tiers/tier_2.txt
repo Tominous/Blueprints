@@ -7,6 +7,7 @@ minecraft:blaze_powder
 minecraft:brewing_stand
 minecraft:bucket
 minecraft:cartography_table
+minecraft:cauldron
 minecraft:chest_minecart
 minecraft:clock
 minecraft:comparator

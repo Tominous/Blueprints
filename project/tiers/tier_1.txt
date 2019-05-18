@@ -23,7 +23,6 @@ minecraft:bread
 minecraft:bricks
 minecraft:cake
 minecraft:carrot_on_a_stick
-minecraft:cauldron
 minecraft:chest
 minecraft:coal_block
 minecraft:cookie

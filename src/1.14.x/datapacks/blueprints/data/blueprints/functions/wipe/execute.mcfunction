@@ -84,5 +84,5 @@ recipe give @a[scores={kRcJTvuGeN2F97Ne=0}] minecraft:wooden_pickaxe
 recipe give @a[scores={kRcJTvuGeN2F97Ne=0}] minecraft:wooden_shovel
 recipe give @a[scores={kRcJTvuGeN2F97Ne=0}] minecraft:wooden_sword
 recipe give @a[scores={kRcJTvuGeN2F97Ne=0}] minecraft:yellow_glazed_terracotta
-scoreboard players set @a[scores={kRcJTvuGeN2F97Ne=0}] kRcJTvuGeN2F97Ne 1
 scoreboard players set @a[scores={kRcJTvuGeN2F97Ne=0,gExjHETLf34TaBJG=0}] gExjHETLf34TaBJG 1
+scoreboard players set @a[scores={kRcJTvuGeN2F97Ne=0}] kRcJTvuGeN2F97Ne 1

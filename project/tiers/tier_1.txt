@@ -30,7 +30,6 @@ minecraft:cookie
 minecraft:end_rod
 minecraft:fishing_rod
 minecraft:fletching_table
-minecraft:flint_and_steel
 minecraft:flower_pot
 minecraft:furnace
 minecraft:glass_bottle

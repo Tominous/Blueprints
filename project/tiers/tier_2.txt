@@ -21,6 +21,7 @@ minecraft:emerald_block
 minecraft:ender_eye
 minecraft:fermented_spider_eye
 minecraft:fire_charge
+minecraft:flint_and_steel
 minecraft:furnace_minecart
 minecraft:glistering_melon_slice
 minecraft:golden_carrot

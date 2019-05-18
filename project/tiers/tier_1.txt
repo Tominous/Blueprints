@@ -28,6 +28,7 @@ minecraft:cauldron
 minecraft:chest
 minecraft:coal_block
 minecraft:cookie
+minecraft:cyan_terracotta
 minecraft:end_rod
 minecraft:fishing_rod
 minecraft:fletching_table

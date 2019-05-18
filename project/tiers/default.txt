@@ -61,7 +61,6 @@ minecraft:pumpkin_seeds
 minecraft:purple_glazed_terracotta
 minecraft:rabbit_stew
 minecraft:red_glazed_terracotta
-minecraft:red_terracotta
 minecraft:redstone_torch
 minecraft:skull_banner_pattern
 minecraft:smooth_quartz

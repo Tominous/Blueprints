@@ -45,7 +45,6 @@ minecraft:gray_terracotta
 minecraft:green_glazed_terracotta
 minecraft:green_terracotta
 minecraft:ink_sac
-minecraft:iron_block
 minecraft:iron_ingot
 minecraft:iron_nugget
 minecraft:jungle_planks

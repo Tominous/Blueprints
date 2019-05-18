@@ -28,6 +28,7 @@ minecraft:hopper
 minecraft:hopper_minecart
 minecraft:iron_axe
 minecraft:iron_bars
+minecraft:iron_block
 minecraft:iron_boots
 minecraft:iron_chestplate
 minecraft:iron_door

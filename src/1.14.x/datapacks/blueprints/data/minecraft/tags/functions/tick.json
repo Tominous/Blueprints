@@ -1,5 +1,5 @@
 {
  "values": [
- "blueprints:events/loop"
+ "blueprints:events/tick"
  ]
 }

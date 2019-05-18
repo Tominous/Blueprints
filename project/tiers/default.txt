@@ -33,7 +33,6 @@ minecraft:diorite
 minecraft:dried_kelp
 minecraft:dried_kelp_block
 minecraft:emerald
-minecraft:emerald_block
 minecraft:flower_banner_pattern
 minecraft:glass
 minecraft:globe_banner_pattern

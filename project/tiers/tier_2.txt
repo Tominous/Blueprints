@@ -17,6 +17,7 @@ minecraft:daylight_detector
 minecraft:detector_rail
 minecraft:dispenser
 minecraft:dropper
+minecraft:emerald_block
 minecraft:ender_eye
 minecraft:fermented_spider_eye
 minecraft:fire_charge

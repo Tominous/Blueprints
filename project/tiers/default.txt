@@ -1,6 +1,5 @@
 minecraft:acacia_planks
 minecraft:andesite
-minecraft:baked_potato
 minecraft:birch_planks
 minecraft:book
 minecraft:bowl

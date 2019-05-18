@@ -18,7 +18,6 @@ minecraft:cooked_chicken
 minecraft:cooked_cod
 minecraft:cooked_mutton
 minecraft:cooked_porkchop
-minecraft:cooked_rabbit
 minecraft:crafting_table
 minecraft:creeper_banner_pattern
 minecraft:dark_oak_planks

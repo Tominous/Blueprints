@@ -30,7 +30,6 @@ minecraft:dried_kelp
 minecraft:dried_kelp_block
 minecraft:emerald
 minecraft:flower_banner_pattern
-minecraft:glass
 minecraft:gold_ingot
 minecraft:gold_nugget
 minecraft:granite

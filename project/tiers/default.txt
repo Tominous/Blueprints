@@ -3,7 +3,6 @@ minecraft:andesite
 minecraft:baked_potato
 minecraft:birch_planks
 minecraft:black_glazed_terracotta
-minecraft:blue_glazed_terracotta
 minecraft:book
 minecraft:bowl
 minecraft:campfire

@@ -14,6 +14,7 @@ glass_pane;minecraft:glass_pane;minecraft:black_stained_glass_pane;minecraft:blu
 minecraft:arrow
 minecraft:beetroot_soup
 minecraft:black_terracotta
+minecraft:blue_terracotta
 minecraft:bone_block
 minecraft:bone_meal
 minecraft:bookshelf

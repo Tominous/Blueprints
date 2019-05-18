@@ -71,7 +71,6 @@ minecraft:snow_block
 minecraft:sponge
 minecraft:spruce_planks
 minecraft:stick
-minecraft:stone
 minecraft:sugar
 minecraft:terracotta
 minecraft:torch

@@ -36,7 +36,6 @@ minecraft:gold_ingot
 minecraft:gold_nugget
 minecraft:granite
 minecraft:gray_glazed_terracotta
-minecraft:green_glazed_terracotta
 minecraft:iron_ingot
 minecraft:iron_nugget
 minecraft:jungle_planks

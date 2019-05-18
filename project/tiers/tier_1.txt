@@ -55,6 +55,7 @@ minecraft:lantern
 minecraft:lapis_block
 minecraft:lectern
 minecraft:lever
+minecraft:light_blue_terracotta
 minecraft:mossy_cobblestone
 minecraft:painting
 minecraft:paper

@@ -1,5 +1,5 @@
-tellraw @a[scores={kRcJTvuGeN2F97Ne=0}] ["",{"text":"BLUEPRINTS ","bold":true,"color":"yellow"},{"text":"» ","color":"gray"},{"text":"Your blueprints have been wiped!","color":"white"}]
-playsound minecraft:entity.ender_dragon.death master @a[scores={kRcJTvuGeN2F97Ne=0}] ~ ~ ~ 100 2 1
+tellraw @a[scores={kRcJTvuGeN2F97Ne=0,gExjHETLf34TaBJG=1}] ["",{"text":"BLUEPRINTS ","bold":true,"color":"yellow"},{"text":"» ","color":"gray"},{"text":"Your blueprints have been wiped!","color":"white"}]
+playsound minecraft:entity.ender_dragon.death master @a[scores={kRcJTvuGeN2F97Ne=0,gExjHETLf34TaBJG=1}] ~ ~ ~ 100 2 1
 recipe take @a[scores={kRcJTvuGeN2F97Ne=0}] *
 recipe give @a[scores={kRcJTvuGeN2F97Ne=0}] minecraft:acacia_planks
 recipe give @a[scores={kRcJTvuGeN2F97Ne=0}] minecraft:andesite
@@ -85,3 +85,4 @@ recipe give @a[scores={kRcJTvuGeN2F97Ne=0}] minecraft:wooden_shovel
 recipe give @a[scores={kRcJTvuGeN2F97Ne=0}] minecraft:wooden_sword
 recipe give @a[scores={kRcJTvuGeN2F97Ne=0}] minecraft:yellow_glazed_terracotta
 scoreboard players set @a[scores={kRcJTvuGeN2F97Ne=0}] kRcJTvuGeN2F97Ne 1
+scoreboard players set @a[scores={kRcJTvuGeN2F97Ne=0,gExjHETLf34TaBJG=0}] gExjHETLf34TaBJG 1

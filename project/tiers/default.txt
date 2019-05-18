@@ -71,7 +71,6 @@ minecraft:snow_block
 minecraft:spruce_planks
 minecraft:stick
 minecraft:sugar
-minecraft:terracotta
 minecraft:torch
 minecraft:wheat
 minecraft:white_glazed_terracotta

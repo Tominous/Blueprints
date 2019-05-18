@@ -44,7 +44,6 @@ minecraft:leather_boots
 minecraft:leather_chestplate
 minecraft:leather_helmet
 minecraft:leather_leggings
-minecraft:light_blue_glazed_terracotta
 minecraft:magma_block
 minecraft:melon
 minecraft:melon_seeds

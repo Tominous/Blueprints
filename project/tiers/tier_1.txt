@@ -21,6 +21,7 @@ minecraft:bookshelf
 minecraft:bow
 minecraft:bread
 minecraft:bricks
+minecraft:brown_terracotta
 minecraft:cake
 minecraft:carrot_on_a_stick
 minecraft:cauldron

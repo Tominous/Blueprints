@@ -54,7 +54,6 @@ minecraft:melon_seeds
 minecraft:mojang_banner_pattern
 minecraft:nether_brick
 minecraft:oak_planks
-minecraft:orange_glazed_terracotta
 minecraft:pumpkin_seeds
 minecraft:rabbit_stew
 minecraft:skull_banner_pattern

@@ -53,6 +53,7 @@ minecraft:mossy_cobblestone
 minecraft:painting
 minecraft:paper
 minecraft:pumpkin_pie
+minecraft:redstone_torch
 minecraft:sea_lantern
 minecraft:smithing_table
 minecraft:stone_axe

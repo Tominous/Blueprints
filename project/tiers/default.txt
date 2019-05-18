@@ -56,7 +56,6 @@ minecraft:mojang_banner_pattern
 minecraft:nether_brick
 minecraft:oak_planks
 minecraft:orange_glazed_terracotta
-minecraft:orange_terracotta
 minecraft:pink_glazed_terracotta
 minecraft:pink_terracotta
 minecraft:pumpkin_seeds

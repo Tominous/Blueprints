@@ -68,7 +68,6 @@ minecraft:smooth_sandstone
 minecraft:smooth_stone
 minecraft:snow
 minecraft:snow_block
-minecraft:sponge
 minecraft:spruce_planks
 minecraft:stick
 minecraft:sugar

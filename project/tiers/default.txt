@@ -59,6 +59,7 @@ minecraft:lime_glazed_terracotta
 minecraft:lime_terracotta
 minecraft:magenta_glazed_terracotta
 minecraft:magenta_terracotta
+minecraft:magma_block
 minecraft:melon
 minecraft:melon_seeds
 minecraft:mojang_banner_pattern

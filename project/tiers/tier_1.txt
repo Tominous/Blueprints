@@ -49,7 +49,6 @@ minecraft:lantern
 minecraft:lapis_block
 minecraft:lectern
 minecraft:lever
-minecraft:magma_block
 minecraft:mossy_cobblestone
 minecraft:painting
 minecraft:paper

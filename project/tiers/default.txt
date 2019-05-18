@@ -37,7 +37,6 @@ minecraft:emerald_block
 minecraft:flower_banner_pattern
 minecraft:glass
 minecraft:globe_banner_pattern
-minecraft:gold_block
 minecraft:gold_ingot
 minecraft:gold_nugget
 minecraft:granite

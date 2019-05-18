@@ -34,6 +34,7 @@ minecraft:flower_pot
 minecraft:furnace
 minecraft:glass_bottle
 minecraft:glowstone
+minecraft:gold_block
 minecraft:golden_axe
 minecraft:golden_boots
 minecraft:golden_chestplate

@@ -11,6 +11,7 @@ minecraft:bowl
 minecraft:brick
 minecraft:brown_glazed_terracotta
 minecraft:brown_terracotta
+minecraft:campfire
 minecraft:charcoal
 minecraft:clay
 minecraft:coal

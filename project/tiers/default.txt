@@ -6,7 +6,6 @@ minecraft:black_glazed_terracotta
 minecraft:blue_glazed_terracotta
 minecraft:book
 minecraft:bowl
-minecraft:brick
 minecraft:campfire
 minecraft:coal
 minecraft:coarse_dirt

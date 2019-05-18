@@ -14,7 +14,6 @@ minecraft:brown_terracotta
 minecraft:charcoal
 minecraft:clay
 minecraft:coal
-minecraft:coal_block
 minecraft:coarse_dirt
 minecraft:cooked_beef
 minecraft:cooked_chicken

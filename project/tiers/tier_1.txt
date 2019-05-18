@@ -24,6 +24,7 @@ minecraft:campfire
 minecraft:carrot_on_a_stick
 minecraft:cauldron
 minecraft:chest
+minecraft:coal_block
 minecraft:cookie
 minecraft:end_rod
 minecraft:fishing_rod

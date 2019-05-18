@@ -59,7 +59,6 @@ minecraft:pink_glazed_terracotta
 minecraft:pumpkin_seeds
 minecraft:purple_glazed_terracotta
 minecraft:rabbit_stew
-minecraft:red_glazed_terracotta
 minecraft:skull_banner_pattern
 minecraft:snow
 minecraft:snow_block

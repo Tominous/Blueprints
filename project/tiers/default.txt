@@ -78,7 +78,6 @@ minecraft:terracotta
 minecraft:torch
 minecraft:wheat
 minecraft:white_glazed_terracotta
-minecraft:white_terracotta
 minecraft:wooden_axe
 minecraft:wooden_hoe
 minecraft:wooden_pickaxe

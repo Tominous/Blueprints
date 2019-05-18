@@ -14,7 +14,6 @@ minecraft:clay
 minecraft:coal
 minecraft:coarse_dirt
 minecraft:cooked_beef
-minecraft:cooked_chicken
 minecraft:crafting_table
 minecraft:creeper_banner_pattern
 minecraft:dark_oak_planks

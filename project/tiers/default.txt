@@ -57,7 +57,6 @@ minecraft:nether_brick
 minecraft:oak_planks
 minecraft:orange_glazed_terracotta
 minecraft:pink_glazed_terracotta
-minecraft:pink_terracotta
 minecraft:pumpkin_seeds
 minecraft:purple_glazed_terracotta
 minecraft:purple_terracotta

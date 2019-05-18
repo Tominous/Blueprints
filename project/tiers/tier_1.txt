@@ -18,6 +18,7 @@ minecraft:bone_meal
 minecraft:book
 minecraft:bookshelf
 minecraft:bow
+minecraft:bowl
 minecraft:bread
 minecraft:bricks
 minecraft:cake

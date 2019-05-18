@@ -1,7 +1,6 @@
 minecraft:acacia_planks
 minecraft:andesite
 minecraft:birch_planks
-minecraft:bowl
 minecraft:campfire
 minecraft:coal
 minecraft:coarse_dirt

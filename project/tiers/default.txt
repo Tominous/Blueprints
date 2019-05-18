@@ -16,7 +16,6 @@ minecraft:coarse_dirt
 minecraft:cooked_beef
 minecraft:cooked_chicken
 minecraft:cooked_cod
-minecraft:cooked_mutton
 minecraft:crafting_table
 minecraft:creeper_banner_pattern
 minecraft:dark_oak_planks

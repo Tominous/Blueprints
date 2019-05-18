@@ -62,7 +62,6 @@ minecraft:rabbit_stew
 minecraft:red_glazed_terracotta
 minecraft:redstone_torch
 minecraft:skull_banner_pattern
-minecraft:smooth_quartz
 minecraft:snow
 minecraft:snow_block
 minecraft:spruce_planks

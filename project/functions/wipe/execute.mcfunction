@@ -2,5 +2,5 @@ tellraw @a[scores={kRcJTvuGeN2F97Ne=0,gExjHETLf34TaBJG=1}] ["",{"text":"BLUEPRIN
 playsound minecraft:entity.ender_dragon.death master @a[scores={kRcJTvuGeN2F97Ne=0,gExjHETLf34TaBJG=1}] ~ ~ ~ 100 2 1
 recipe take @a[scores={kRcJTvuGeN2F97Ne=0}] *
 recipe give @a[scores={kRcJTvuGeN2F97Ne=0}] minecraft:item
-scoreboard players set @a[scores={kRcJTvuGeN2F97Ne=0}] kRcJTvuGeN2F97Ne 1
 scoreboard players set @a[scores={kRcJTvuGeN2F97Ne=0,gExjHETLf34TaBJG=0}] gExjHETLf34TaBJG 1
+scoreboard players set @a[scores={kRcJTvuGeN2F97Ne=0}] kRcJTvuGeN2F97Ne 1

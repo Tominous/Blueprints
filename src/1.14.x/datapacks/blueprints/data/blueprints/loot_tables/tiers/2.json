@@ -70,6 +70,16 @@
           "functions": [
             {
               "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Bookshelf\\\",\\\"color\\\":\\\"blue\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:2,Recipes:[\"minecraft:bookshelf\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Brewing stand\\\",\\\"color\\\":\\\"blue\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:2,Recipes:[\"minecraft:brewing_stand\"]}"
             }
           ]
@@ -91,6 +101,16 @@
             {
               "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Cartography table\\\",\\\"color\\\":\\\"blue\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:2,Recipes:[\"minecraft:cartography_table\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Cauldron\\\",\\\"color\\\":\\\"blue\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:2,Recipes:[\"minecraft:cauldron\"]}"
             }
           ]
         },
@@ -231,6 +251,16 @@
             {
               "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Fire charge\\\",\\\"color\\\":\\\"blue\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:2,Recipes:[\"minecraft:fire_charge\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Flint and steel\\\",\\\"color\\\":\\\"blue\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:2,Recipes:[\"minecraft:flint_and_steel\"]}"
             }
           ]
         },
@@ -631,6 +661,16 @@
             {
               "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Sticky piston\\\",\\\"color\\\":\\\"blue\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:2,Recipes:[\"minecraft:sticky_piston\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Stonecutter\\\",\\\"color\\\":\\\"blue\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:2,Recipes:[\"minecraft:stonecutter\"]}"
             }
           ]
         },

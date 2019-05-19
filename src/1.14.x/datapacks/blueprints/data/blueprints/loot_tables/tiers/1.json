@@ -80,7 +80,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Bookshelf\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:bookshelf\"]}"
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Book\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:book\"]}"
             }
           ]
         },
@@ -91,6 +91,16 @@
             {
               "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Bow\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:bow\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Bowl\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:bowl\"]}"
             }
           ]
         },
@@ -161,16 +171,6 @@
             {
               "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Carved pumpkin\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:carved_pumpkin\",\"minecraft:jack_o_lantern\"]}"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:knowledge_book",
-          "functions": [
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Cauldron\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:cauldron\"]}"
             }
           ]
         },
@@ -291,16 +291,6 @@
             {
               "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Fletching table\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:fletching_table\"]}"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:knowledge_book",
-          "functions": [
-            {
-              "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Flint and steel\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:flint_and_steel\"]}"
             }
           ]
         },
@@ -520,16 +510,6 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Mossy cobblestone\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:mossy_cobblestone\"]}"
-            }
-          ]
-        },
-        {
-          "type": "minecraft:item",
-          "name": "minecraft:knowledge_book",
-          "functions": [
-            {
-              "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Nether blocks\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:nether_bricks\",\"minecraft:nether_wart_block\",\"minecraft:red_nether_bricks\"]}"
             }
           ]
@@ -610,6 +590,16 @@
           "functions": [
             {
               "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Redstone torch\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:redstone_torch\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Sandstone\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:chiseled_red_sandstone\",\"minecraft:chiseled_sandstone\",\"minecraft:cut_red_sandstone\",\"minecraft:cut_sandstone\",\"minecraft:red_sandstone\",\"minecraft:sandstone\"]}"
             }
           ]
@@ -681,6 +671,16 @@
             {
               "function": "set_nbt",
               "tag": "{display:{Name:\"{\\\"text\\\":\\\"Stairs\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:acacia_stairs\",\"minecraft:andesite_stairs\",\"minecraft:birch_stairs\",\"minecraft:brick_stairs\",\"minecraft:cobblestone_stairs\",\"minecraft:dark_oak_stairs\",\"minecraft:dark_prismarine_stairs\",\"minecraft:diorite_stairs\",\"minecraft:end_stone_brick_stairs\",\"minecraft:granite_stairs\",\"minecraft:jungle_stairs\",\"minecraft:mossy_cobblestone_stairs\",\"minecraft:mossy_stone_brick_stairs\",\"minecraft:nether_brick_stairs\",\"minecraft:oak_stairs\",\"minecraft:polished_andesite_stairs\",\"minecraft:polished_diorite_stairs\",\"minecraft:polished_granite_stairs\",\"minecraft:prismarine_brick_stairs\",\"minecraft:prismarine_stairs\",\"minecraft:purpur_stairs\",\"minecraft:quartz_stairs\",\"minecraft:red_nether_brick_stairs\",\"minecraft:red_sandstone_stairs\",\"minecraft:sandstone_stairs\",\"minecraft:smooth_quartz_stairs\",\"minecraft:smooth_red_sandstone_stairs\",\"minecraft:smooth_sandstone_stairs\",\"minecraft:spruce_stairs\",\"minecraft:stone_brick_stairs\",\"minecraft:stone_stairs\"]}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:knowledge_book",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{display:{Name:\"{\\\"text\\\":\\\"Stew\\\",\\\"color\\\":\\\"green\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\",Lore:[\"{\\\"text\\\":\\\"Click to unlock this blueprint\\\",\\\"color\\\":\\\"white\\\",\\\"bold\\\":false,\\\"italic\\\":false,\\\"underlined\\\":false,\\\"strikethrough\\\":false,\\\"obfuscated\\\":false}\"]},CustomModelData:1,Recipes:[\"minecraft:mushroom_stew\",\"minecraft:rabbit_stew\",\"minecraft:suspicious_stew\"]}"
             }
           ]
         },

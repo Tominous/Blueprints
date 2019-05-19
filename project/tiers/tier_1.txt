@@ -48,6 +48,7 @@ minecraft:lantern
 minecraft:lapis_block
 minecraft:lectern
 minecraft:lever
+minecraft:mushroom_stew
 minecraft:painting
 minecraft:paper
 minecraft:pumpkin_pie

@@ -48,11 +48,10 @@ minecraft:lantern
 minecraft:lapis_block
 minecraft:lectern
 minecraft:lever
-stew;minecraft:mushroom_stew
+stew;minecraft:mushroom_stew;minecraft:rabbit_stew
 minecraft:painting
 minecraft:paper
 minecraft:pumpkin_pie
-minecraft:rabbit_stew
 minecraft:redstone_torch
 minecraft:sea_lantern
 minecraft:smithing_table

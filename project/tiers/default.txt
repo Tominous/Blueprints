@@ -27,6 +27,7 @@ minecraft:magma_block
 minecraft:melon
 minecraft:melon_seeds
 minecraft:mojang_banner_pattern
+minecraft:mossy_cobblestone
 minecraft:oak_planks
 minecraft:pumpkin_seeds
 minecraft:skull_banner_pattern

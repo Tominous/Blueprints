@@ -64,6 +64,7 @@ minecraft:slime_block
 minecraft:smoker
 minecraft:spectral_arrow
 minecraft:sticky_piston
+minecraft:stonecutter
 minecraft:tipped_arrow
 minecraft:tnt
 minecraft:tnt_minecart

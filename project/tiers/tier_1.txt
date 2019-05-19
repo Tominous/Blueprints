@@ -48,7 +48,7 @@ minecraft:lantern
 minecraft:lapis_block
 minecraft:lectern
 minecraft:lever
-stew;minecraft:mushroom_stew;minecraft:rabbit_stew
+stew;minecraft:mushroom_stew;minecraft:rabbit_stew;minecraft:suspicious_stew
 minecraft:painting
 minecraft:paper
 minecraft:pumpkin_pie
@@ -60,7 +60,6 @@ minecraft:stone_hoe
 minecraft:stone_pickaxe
 minecraft:stone_shovel
 minecraft:stone_sword
-minecraft:suspicious_stew
 nether_blocks;minecraft:nether_bricks;minecraft:nether_wart_block;minecraft:red_nether_bricks
 polished_blocks;minecraft:polished_andesite;minecraft:polished_diorite;minecraft:polished_granite
 pressure_plate;minecraft:acacia_pressure_plate;minecraft:birch_pressure_plate;minecraft:dark_oak_pressure_plate;minecraft:spruce_pressure_plate;minecraft:stone_pressure_plate

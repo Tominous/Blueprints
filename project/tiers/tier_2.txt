@@ -4,6 +4,7 @@ minecraft:armor_stand
 minecraft:barrel
 minecraft:blast_furnace
 minecraft:blaze_powder
+minecraft:bookshelf
 minecraft:brewing_stand
 minecraft:bucket
 minecraft:cartography_table
